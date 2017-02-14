@@ -66,22 +66,11 @@ We will be "pair programming" for this lab, so you will need to pair up. Once yo
 
 #### Deliverable
 
-Push completed homework up to your fork of this repo.
+Push completed work up to your fork of this repo.
 
 ## Additional Resources
 
 - [MDN Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
-
-### Self Evaluation
-
-During the previous exercise, rate your progress on a scale of 1-5 (5 being the highest) for the following criteria:
-
-- **Persistence:** Do you handle frustration well? Do you independently pursue understanding?
-- **Organization:** Do you thoughtfully implement best coding patterns and practices?
-- **Collaboration:** Do you make an effort solve problems and share your ideas with others?
-- **Communication:** Do you clearly convey your thoughts to others in illustrative and clear ways?
-- **Self-compassion:** Do you make productive use of turning failures into learning opportunities?
-- **Resourcefulness:** Do make an effort to compare and contrast new ideas with ones you already know?
 
 ## Licensing
 All content is licensed under a CC­BY­NC­SA 4.0 license.
