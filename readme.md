@@ -13,6 +13,8 @@ Market: DEN
 
 > *Pair programming activity*
 
+<!--Describe how this will be done in pairs --one partner does one function, next partner does next one, repeat, only need one PC -->
+
 This lab provides an opportunity to practice implementing some real-world functions.
 
 ## Exercise
